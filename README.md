@@ -1,8 +1,8 @@
 # Table of Contents
 
-[Class 1]
+[Class 1](class1.md)
 
-[Class 2]
+[Class 2](class2.md)
 
 [Class 3]
 
