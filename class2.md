@@ -59,9 +59,9 @@ An if statement checks a ***value*** and if it evaluates to ***true*** then the 
 
 Types of comparison operators
 
-+ ===
-+ !==
-+ <=
-+ >=
++ ***===***
++ ***!==***
++ ***<=***
++ ***>=***
 
 Logical operators "&&" and "||" are different in that they state that values either have to be the same to be true or they can differ to be true
