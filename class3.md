@@ -42,3 +42,8 @@ A conditinal program might be used to keep people driving under the speed limit.
 
 ***Loop*** is useful in JS when you want to run a particluar code many times over. Instead of re-writing the code over and over again or copying and pasting, you can create a loop that can run as many times as you want it to.
 100 times? 1000 times? The sky is the limit.
+
+## Things I want to know more about
+
++ CSS capabilities and format options
+
