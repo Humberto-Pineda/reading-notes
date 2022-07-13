@@ -18,3 +18,50 @@ We can  apply CSS so as to add color, resize text, add images, add background an
 
 Inline styles may be convinient, but you have to re-enter code that you could apply to multiple sections by referecing it or sourcing it instead. You can also move your ideas around without having to re-enter the entire code again.
   
+The selector in the block of code would be <h2> which selects where the properties, i.e. the adjectives will be affected.
+
+Ex.
+
++ red
++ white
++ 1rem
++ 500px
+
+The declarations are what your going to change.
+
+ex.
+
++ color
++ margin
++ background-color
++ height
++ width
++ padding
+
+## JavaScript
+
+Single quote marks indicate a string
+
+Ex. of operators
+
++ ***+***
++ ***=***
++ ***!***
++ ***$***
+
+You can delevope a weather application with functions
+
+## Conditionals
+
+An if statement checks a ***value*** and if it evaluates to ***true*** then the code block will execute
+
+***Else if*** can  be used to provide more than one or two choices or outcomes
+
+Types of comparison operators
+
++ ===
++ !==
++ <=
++ >=
+
+Logical operators "&&" and "||" are diiferent in that they state that values either have to be the same to be true or they can differ to be true
