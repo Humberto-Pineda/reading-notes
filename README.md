@@ -6,7 +6,7 @@
 
 [Class 3](class3.md)
 
-[Class 4]
+[Class 4](class4.md)
 
 [Class 5]
 
