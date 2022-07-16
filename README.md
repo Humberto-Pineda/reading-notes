@@ -8,7 +8,7 @@
 
 [Class 4](class4.md)
 
-[Class 5]
+[Class 5](class5.md)
 
 [Class 6]
 
