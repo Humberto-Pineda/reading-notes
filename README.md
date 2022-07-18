@@ -10,7 +10,7 @@
 
 [Class 5](class5.md)
 
-[Class 6]
+[Class 6](class6.md)
 
 [Class 7]
 
