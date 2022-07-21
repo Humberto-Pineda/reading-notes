@@ -12,9 +12,9 @@
 
 [Class 6](class6.md)
 
-[Class 7]
+[Class 7](class7.md)
 
-[Class 8]
+[Class 8](class8.md)
 
 [Class 9]
 
