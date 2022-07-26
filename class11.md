@@ -4,15 +4,15 @@
 
 You needed to use plugins like Flash or Silverlight to have audio or video on the web.
 
-> Describe the use of the src and controls attributes in the <video> element.
+> Describe the use of the src and controls attributes in the *video* element.
 
 ***src*** is used for video the exact same way as img. Controls allow you to control (big surprise) video and audio playback
 
-> Why is it important to have fallback content inside the <video> element?
+> Why is it important to have fallback content inside the *video* element?
 
 In case the browser doesn't support the video
 
->Write a very short story where <audio> and <video> are characters.
+>Write a very short story where *audio* and *video* are characters.
 
 Once upon a time in the early 2000's, *audio* and *video* wanted to jump into the online world. But they couldn't. They had to jump into a plugin so others could see them but they couldn't be apart of the content family. They were sad. But then JavaScript devs made a way for them to be included. They got along immediatey with *img*. Now they are happy. The end.
 
