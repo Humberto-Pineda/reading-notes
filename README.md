@@ -24,8 +24,8 @@
 
 [Class 12](class12.md)
 
-<!-- [Class 13](class13.md)
+[Class 13](class13.md)
 
-[Class 14](class14.md)
+<!-- [Class 14](class14.md)
 
 [Class 15](class15.md) -->
