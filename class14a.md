@@ -1,6 +1,6 @@
 # Class 14
 
-## 14a
+## Reading A
 
 > What does a CSS transform allow the developer to do to an element?
 
@@ -25,6 +25,3 @@ Increase engagement seems the most important. But that goes hand in hand with ex
 > How this topic fit in with your long-term goals?
 
 The more I see about CSS and its capabilities, the more I'm inclined to pursue a direction with designing websites in the forefront. I think this is the fun part about web design.
-
-## 14b
-
