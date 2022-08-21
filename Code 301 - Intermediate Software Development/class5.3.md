@@ -43,3 +43,7 @@ Explore the greaterThan function as defined in the reading. In your own words, w
 Explain how either map or reduce operates, with regards to higher-order functions.
 
 - By using *map*, you provide a function its only argument which applies to every element contained in the array.
+
+## Things I want to know more about
+
+- *Greater Than* functions
